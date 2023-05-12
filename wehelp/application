@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<HTML>
+    <head>
+        <meta name="viewport" content="width-device-width, initial-scale=1.0" />
+        <meta charset="utf-8" />
+        <title>WeHelp申請書</title>
+        <link rel="stylesheet" type="text/css" href="00-Application.css" />
+    </head>
+    <body>
+        <header class="frame">
+            <div class="frametitle">
+                WeHelp申請書
+            </div>
+            <main class="frame2">
+                <div class="headline"><hr/>自我介紹<hr/></div>
+                    <div class="content">
+                        <p>我是 Bruce，擁有十年工作資歷，大學唸英文系，研究所跨到科技教育，出社會從基層銷售幹到業務主管。在新創圈打滾8年，橫跨電商、行銷科技、BPM解決方案等不同公司，曾任職電商系統商SHOPLINE業務經理、全通路品牌 91APP 銷售顧問、美食外送平台Foodpanda台中區經理。</p>
+                        <p>人生的價值只看結果，反而會錯過生命的過程，正朝著轉職工程師的路上前進！</p>
+                    </div>
+                <div class="headline"><hr/>為了成為軟體工程師，曾做過什麼努力？若有具體專案作品請分享給我們。<hr/></div>
+                    <div class="content">
+                        <p>（一）從網路上找付費、免費資源自學約 3 個月的時間，以下是我上過的課程：</p>
+                        <li>彭彭的課程（有付費訂閱最高級會員） - HTML, CSS, JavaScript</li>
+                        <li>Linkedin Learning（年費會員） - Python, HTML, CSS, JavaScript</li>
+                        <li>MDN Web Doc</li>
+                        <li>HTML Standard</li>
+                        <p>（二）專案作品：只有本次提交的申請書</p>
+                    </div>
+                <div class="headline"><hr/>如果參與這個計畫，會怎麼安排學習時間？<hr/></div>
+                    <div class="content">
+                        已辭掉工作，全職準備。每天能花至少 8 小時學習，並參加每週一的線上會議、週五的實體活動。
+                    </div>
+                <div class="headline"><hr/>是否有想要加入的軟體公司？為什麼想加入該公司？<hr/></div>
+                    <div class="content">
+                        想進入以開發「企業BPM」的軟體公司為目標，因為這類型公司規模小型大型都有，認為工作機會也多。
+                    </div>
+                <div class="headline"><hr/>請描述一件讓你產生明顯負面情緒的事情，你如何處理該情緒？<hr/></div>
+                    <div class="content">
+                        <p>在工作上遇到無法以解決問題為目的的合作夥伴，會讓我很沮喪。遇到這種狀況，先以解決問題為優先，接下來再處理彼此溝通的問題。</p>
+                        <p>舉例來說，過去我在負責大型客戶專案期間，常遇到功能客製和系統串接問題，經常需要和後端工程師與客戶開三方技術會議。與會的工程師並非擅長面對客戶，因此會不經意地回答會過於仔細，偶爾發生會議越開越長，從原本討論範圍內延伸更多新的需求。</p>
+                        <p>此時，在會議上面對客戶，我會把焦點強調本次合作最大的價值和優先解決的問題，除非現場客戶端的窗口有權限改變專案內容，三方討論應該聚焦在原本討論範圍，其他需求也很重要可以放在之後階段討論。開完會後，我會先和工程師討論專案排程是否能如預期交給客戶，最後再主動提出自己能夠改進的地方，讓彼此合作可以更好，通常能讓雙方引起良性的互動。</p>
+                    </div>
+                <div class="headline"><hr/>關於這份申請網頁，請分享一個你開發時的技術心得<hr/></div>
+                    <div class="content">
+                        <p>製作這份網頁時，嘗試從彭彭的課程、Linkedin Learning 等相關網路資源，找尋解決方法。</p>
+                        <li>使用 VSC 編寫 HTML 和 CSS</li>
+                        <li>建立 CSS 選擇器，專門寫 CSS，讓 HTML 的部分看起來乾淨簡單</li>
+                        <li>在網頁切版的部分，覺得實務上比看課程還要複雜，盡可能以彭彭教的內容為主，來解決問題</li>
+                    </div>
+                <div class="headline"><hr/>從上次提出申請至今，多做了哪些努力？( 第一次申請不用回答 )<hr/></div>
+                    <div class="content">從未申請過。</div>
+                <div class="headline"><hr/>其他想要對我們說的事情？<hr/></div>
+                    <div class="content">
+                        <p>很感謝彭彭老師將教學課程上傳到 Youtube，對於完全沒有程式語言基礎、又想在 37 歲時轉職當工程師的我來說，增加了不少信心，雖然尚未轉行成功，不過我在自學過程中，對於程式語言世界越來越感興趣。</p>
+                        <p>做了8 年業務頓悟到，做業務追求的就是創業當老闆，但我沒有創業的規劃，因此，轉行工程師的初衷是為了「穩定又有發展潛力的專業工作」。如果要在職場上持續生存，又要有競爭力，那一定得學習專業，所以我得出的結論是：軟體工程師。</p>
+                        <p>我爬了不少文，我相信沒有任何一個中年轉職是輕鬆的，至少在過程中，能找到對的老師，努力拼拼看！</p>
+                    </div>
+                <div class="footbottom">1
+                    <div class="footend">1</div>
+                </div>
+            </main>
+        </header>
+    </body>
+</HTML>
