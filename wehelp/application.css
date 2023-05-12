@@ -1,0 +1,64 @@
+.frame{ /* 容器內項目如果要水平排列，要在此設定 display:flex */
+    height:100%;max-width:100%;
+    background-color:lightgray;
+    color:lightgray;
+} 
+.frametitle{ /* 容器內項目如果要水平排列，要在此設定 display:flex */
+    height:50px;max-width:100%;
+    justify-content: center; /* 左右排列 */
+    align-items: center; /* 垂直對齊 */
+    text-align: center;
+    background-color:#5B5B5B;
+    margin-top: 0;
+    margin-bottom:50px;
+    color:#eeee;
+    font-size:30px;font-weight:bold; 
+} 
+.frame2{
+    justify-content: center; /* 左右排列 */
+    align-items: center; /* 垂直對齊 */
+    text-align: center;
+    background-color:#eeee;
+    color:black;
+    max-width:1200px;margin:0 auto;
+    font-size: 25px;
+}
+.headline {
+    text-align:center;
+    width:100%;
+    font-weight:bold;
+    background-color: gray;
+    color:#eeee;
+}
+.content{
+    height:50%;
+    margin-left:10%;
+    margin-right:10%;
+    font-size:20px;
+    text-align:left;
+}
+.frame3{ 
+    height:100%;width:100%;
+    background-color:lightgray;
+} 
+.footbottom{
+    text-align:center;
+    background-color:lightgray;
+    color:lightgray;
+}
+.footend{
+    height:50%;
+    margin-left:10%;
+    margin-right:10%;
+    font-size:30px;
+}
+@media(max-width:1250px){
+    /* 螢幕寬度小於 1250px，套用此區塊的 css */
+
+}
+@media(max-width:500px){
+    /* 螢幕寬度小於 500px，套用此區塊的 css */
+    .content{
+        font-size:20px;
+    }
+}
