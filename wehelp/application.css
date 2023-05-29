@@ -47,40 +47,35 @@
     color:lightgray;
 }
 .footend{
-    height:50%;
+    height:20%;
     margin-left:10%;
     margin-right:10%;
-    font-size:30px;
-}
-.line1{
-    margin-top:0px;
-    height:28px;
-    background-color:lightgray;
+    font-size:20px;
 }
 .line2{
     margin-top:4px;
     height:26px;
-    background:lightgray;
+    background:#D0D0D0;
 }
 .line3{
     margin-top:8px;
     height:24px;
-    background:lightgray;
+    background:#E0E0E0;
 }
 .line4{
     margin-top:12px;
     height:22px;
-    background:lightgray;
+    background:#F0F0F0;
 }
 .line5{
     margin-top:16px;
     height:20px;
-    background:lightgray;
+    background:#FCFCFC;
 }
-.line6{
-    margin-top:20px;
-    height:18px;
-    background:lightgray;
+.line5{
+    margin-top:16px;
+    height:20px;
+    background:#FCFCFC;
 }
 @media(max-width:1250px){
     /* 螢幕寬度小於 1250px，套用此區塊的 css */
