@@ -42,15 +42,15 @@
     background-color:lightgray;
 } 
 .footbottom{
+    margin-top:20px;
     text-align:center;
     background-color:lightgray;
     color:lightgray;
 }
 .footend{
-    height:20%;
     margin-left:10%;
     margin-right:10%;
-    font-size:20px;
+    font-size:30px;
 }
 .line2{
     margin-top:4px;
