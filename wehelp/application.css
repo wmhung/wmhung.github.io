@@ -77,13 +77,21 @@
     height:20px;
     background:#FCFCFC;
 }
-@media(max-width:1250px){
-    /* 螢幕寬度小於 1250px，套用此區塊的 css */
-
+@media(max-width:820px){
+    /* 螢幕寬度小於 820px，套用此區塊的 css */
+    .frametitle{
+        font-size:26px;
+    }
+    .content{
+        font-size:16px;
+    }
 }
 @media(max-width:500px){
     /* 螢幕寬度小於 500px，套用此區塊的 css */
+    .frametitle{
+        font-size:22px;
+    }
     .content{
-        font-size:20px;
+        font-size:18px;
     }
 }
