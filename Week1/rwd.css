@@ -21,7 +21,6 @@
 .mobile-menu{
     display:none;
     position:fixed;
-    top:2.75px;
     right:5px;
 }
 .item{
