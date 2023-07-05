@@ -1,3 +1,9 @@
+.margin{
+    margin-top:0px;
+    margin-bottom:0px;
+    margin-right: 0px;
+    margin-left: 0px;
+}
 .frame{
     display:flex; /* 讓下一層的項目水平排列 */
 }
